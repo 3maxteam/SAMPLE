@@ -1,0 +1,12 @@
+#include<stdio.h>
+#include<conio.h>
+void main()
+int a;
+printf("enter the weightn of the muskmelon bought",);
+scanf"%d",&a);
+if(a/2)==0:
+printf("yes");
+else
+printf("no");
+getch();
+
